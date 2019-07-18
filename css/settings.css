@@ -11,9 +11,9 @@ main {
 footer.page-footer {
 	background-color:#ffffff;
 }
-header, main, footer {
+/*header, main, footer {
      padding-left: 300px;
-}
+}*/
 @media only screen and (max-width : 992px) {
     header, main, footer {
       padding-left: 0;
